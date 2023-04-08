@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Shared\\DollyHotel.Shared.csproj": {}
+    "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Shared\\DollyHotel.Shared.csproj": {}
   },
   "projects": {
-    "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Shared\\DollyHotel.Shared.csproj": {
+    "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Shared\\DollyHotel.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Shared\\DollyHotel.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Shared\\DollyHotel.Shared.csproj",
         "projectName": "DollyHotel.Shared",
-        "projectPath": "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Shared\\DollyHotel.Shared.csproj",
+        "projectPath": "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Shared\\DollyHotel.Shared.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

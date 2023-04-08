@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lmd4vVTVU4/F/hYG/RQpYrR7ROkpkDPGWoATsNuD+gOO407hks+wodMI6ZDdBMjf4MmmQTpQn7+CFir5wjP2bw==",
+  "dgSpecHash": "Sa7u3lI1uULSJkdGUrFnGbenWqCRn2XFb5vNS/FxjZOTCi+v0gEPZscgMAUXb4NrylnC2YkPC0L2ID2M0qyTpw==",
   "success": true,
-  "projectFilePath": "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Server\\DollyHotel.Server.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Server\\DollyHotel.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

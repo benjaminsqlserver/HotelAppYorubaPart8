@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fByTsEtFA9uKe0qgzNj5Zkws8pw4ns0JsSywMAAA6hoEdRu0RzANaalYH0DJKRro/SEAlGe115XV4+k9qniFTw==",
+  "dgSpecHash": "KeR4GBvWPpiC8ypdsfCBaEUNrtbSOzeIKc+p+iWDDwe4Gy9Q28UpIRNs4Wm83djxs5TLiPxmwAhqH6Ud4CWf1g==",
   "success": true,
-  "projectFilePath": "C:\\MicrosoftTemplate\\DollyHotel\\DollyHotel\\Client\\DollyHotel.Client.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\HotelAppYorubaPart8\\DollyHotel\\Client\\DollyHotel.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\libsassbuilder\\2.0.1\\libsassbuilder.2.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.4\\microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",

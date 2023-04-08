@@ -3,11 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollyHotel.Server", "DollyHotel\Server\DollyHotel.Server.csproj", "{4E78D00F-FC22-4C5B-883E-4B2CE95C26B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DollyHotel.Server", "DollyHotel\Server\DollyHotel.Server.csproj", "{4E78D00F-FC22-4C5B-883E-4B2CE95C26B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollyHotel.Client", "DollyHotel\Client\DollyHotel.Client.csproj", "{D3F1E652-C2C1-4EDD-922D-6720CEA18BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DollyHotel.Client", "DollyHotel\Client\DollyHotel.Client.csproj", "{D3F1E652-C2C1-4EDD-922D-6720CEA18BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DollyHotel.Shared", "DollyHotel\Shared\DollyHotel.Shared.csproj", "{4BF04C21-66DA-4E8E-A142-0E0472852208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DollyHotel.Shared", "DollyHotel\Shared\DollyHotel.Shared.csproj", "{4BF04C21-66DA-4E8E-A142-0E0472852208}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{624F7191-C686-4D93-806A-FC8E90543789}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{25544EC0-6DD3-481E-936E-D582CAB93AEF}"
+	ProjectSection(SolutionItems) = preProject
+		DollyHotel\Database\SQLQuery.sql = DollyHotel\Database\SQLQuery.sql
+		SqlQuery.sql = SqlQuery.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +38,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{25544EC0-6DD3-481E-936E-D582CAB93AEF} = {624F7191-C686-4D93-806A-FC8E90543789}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BADCB1E0-670F-41C5-97E3-733EEDE9BDD5}
